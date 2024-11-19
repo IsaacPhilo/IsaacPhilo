@@ -1,19 +1,34 @@
 ## Greetings
 And peace to all who read this bio.
 
+---
+
 I'm currently learning **Verilog**,
+
 ... in love with the ease of the pip installer
+
 ... looking to learn full-stack development
+
 ... and searching for my muse
 
-What have I learned, and where?
- Python and its libraries—with HackUTD, LTIMindtree, iCode, and ACM
- JS, HTML, and CSS—through general exploration
- Java and C++—in all of my CS classes
- Assembly—in Computer Architecture
- Verilog—in Digital Logic
+---
+
+## What have I learned, and where?
+Python and its libraries—with HackUTD, LTIMindtree, iCode, and ACM
+
+JS, HTML, and CSS—through general exploration
+
+Java and C++—in all of my CS classes
+
+Assembly—in Computer Architecture
+
+Verilog—in Digital Logic
+
+---
 
 Ask me about the ways your privacy is being compromised, and how to respond.
+
+---
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/isaac-p-b29402225/).
 <!--
