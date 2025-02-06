@@ -3,7 +3,7 @@ And peace to all who read this bio.
 
 ---
 
-I'm currently learning **Verilog**,
+I'm currently learning NodeJS, NPM, Nuxt, Tailwind, Vue, and Prisma,
 
 ... in love with the ease of the pip installer
 
