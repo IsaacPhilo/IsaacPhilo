@@ -16,6 +16,8 @@ I'm currently learning NodeJS, NPM, Nuxt, Tailwind, Vue, and Prisma,
 ## What have I learned, and where?
 Python and its libraries—with HackUTD, LTIMindtree, iCode, and ACM
 
+NodeJS, NPM, Nuxt, Tailwind, Vue, and Prisma—with UT Dallas [EPICS](https://epics.utdallas.edu/)
+
 JS, HTML, and CSS—through general exploration
 
 Java and C++—in all of my CS classes
